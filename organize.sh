@@ -1,4 +1,4 @@
-#1/bin/bash
+#!/bin/bash
 
 #Define directories
 BASE_DIR="C:\Users\Admin\Documents\TheoWAF\logs"
